@@ -1,5 +1,14 @@
 #DiscreteSeekBar
 
+```
+DETAILS OF THIS FORK
+
+This is my fork of the DiscreteSeekBar library which shall contain some customisations necessary for my needs. 
+
+To easily reference this GitHub repository from my AndroidStudio gradle files without having to clone it locally and mess with Git submodules, I'm using the brilliant jetpack.io. 
+
+```
+
 ![screenshot](https://lh6.googleusercontent.com/-JjvxVMCm1ug/VHUPWVBfpbI/AAAAAAAAHtQ/TPtoOjHI5MA/w639-h356/seekbar2.gif)
 
 ![screenshot](https://lh3.googleusercontent.com/-7nbVPXxUhYk/VG-rO64pMWI/AAAAAAAAHsM/aMRglt2Vzrk/w639-h480/animation.gif)
